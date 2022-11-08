@@ -1,7 +1,7 @@
 <?php
 	class operacions{				
-		public function suma($op1,$op2){
-			$resultat = $op1 + $op2;
+		public function suma($op1,$op2,$op3){
+			$resultat = $op1 + $op2+$op3;
 			return $resultat;
 		}
 		

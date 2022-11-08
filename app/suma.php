@@ -9,7 +9,7 @@
 		<?php
 			require 'operacions.php';
 			$operacio = new operacions();
-			$resultat = $operacio->suma($_GET["op1"],$_GET["op2"]);
+			$resultat = $operacio->suma($_GET["op1"],$_GET["op2"],GET["op3"]);
 			echo "<p>El resultat és igual: $resultat</p>";				
 		?>
 		<a href="suma.html">Torna a la pàgina anterior</a>
