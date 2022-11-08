@@ -2,7 +2,7 @@
 <html lang="ca">
 <head>
 	<meta charset="utf-8">
-	<title>EXECUCIÓ DE LA SUMA DE 2 OPERANDS</title>
+	<title>EXECUCIÓ DE LA SUMA DE 3 OPERANDS</title>
 </head>
 	<body>
 		<p><u>RESULTAT DE LA SUMA</u></p>		
